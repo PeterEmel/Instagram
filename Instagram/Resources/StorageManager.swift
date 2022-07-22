@@ -10,13 +10,6 @@ import Foundation
 
 public class StorageManager {
     
-    public enum UserPostType {
-        case photo, Video
-    }
-    
-    public struct UserPost {
-        let postType: UserPostType
-    }
     
     static let shared = StorageManager()
     
@@ -43,3 +36,5 @@ public class StorageManager {
         }
     }
 }
+
+

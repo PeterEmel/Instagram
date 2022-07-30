@@ -118,14 +118,14 @@
 		900E7F6C287C35E700820755 /* Cells */ = {
 			isa = PBXGroup;
 			children = (
-				900E7F6F287C381900820755 /* Home Feed */,
+				900E7F6F287C381900820755 /* Home Feed & Post */,
 				90D55276287EEAB500D5B730 /* FormTableViewCell.swift */,
 				90E485E0288AF10100DAA8F9 /* UserFollowTableViewCell.swift */,
 			);
 			path = Cells;
 			sourceTree = "<group>";
 		};
-		900E7F6F287C381900820755 /* Home Feed */ = {
+		900E7F6F287C381900820755 /* Home Feed & Post */ = {
 			isa = PBXGroup;
 			children = (
 				900E7F6D287C364B00820755 /* IGFeedPostTableViewCell.swift */,
@@ -133,7 +133,7 @@
 				900E7F72287C387A00820755 /* IGFeedPostActionsTableViewCell.swift */,
 				900E7F74287C38A800820755 /* IGFeedPostGeneralTableViewCell.swift */,
 			);
-			path = "Home Feed";
+			path = "Home Feed & Post";
 			sourceTree = "<group>";
 		};
 		9011B58D2879BCA80043E548 /* Core Tabs */ = {
